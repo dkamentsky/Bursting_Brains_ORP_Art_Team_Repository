@@ -8,10 +8,4 @@
 *.sln
 
 # Added by Tom Yu
-Assembly-UnityScript-Editor.pidb
-Assembly-CSharp.pidb
-Assembly-CSharp-Editor.pidb
-Assembly-CSharp-firstpass.pidb
-Assembly-UnityScript-firstpass.pidb
-Assembly-UnityScript.pidb
-*.userprefs
+
